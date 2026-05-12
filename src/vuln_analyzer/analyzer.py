@@ -1,6 +1,6 @@
 from .ml_vulnerability_detector import predict_code
 from .llm_analyzer import analyze_code_llm
-
+from .secrets import detect_secrets
 
 def analyze_code(code: str) -> dict:
     ml_result = predict_code(code)

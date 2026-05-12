@@ -11,5 +11,6 @@ def analyze_code(code: str) -> dict:
         "input": code,
         "ml_result": ml_result,
         "llm_result": llm_result,
-        "final_result": final_result
+        "final_result": final_result,
+        "secrets": secret_result
     }

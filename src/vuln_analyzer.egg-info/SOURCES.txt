@@ -4,6 +4,7 @@ src/vuln_analyzer/__init__.py
 src/vuln_analyzer/analyzer.py
 src/vuln_analyzer/llm_analyzer.py
 src/vuln_analyzer/ml_vulnerability_detector.py
+src/vuln_analyzer/secrets.py
 src/vuln_analyzer.egg-info/PKG-INFO
 src/vuln_analyzer.egg-info/SOURCES.txt
 src/vuln_analyzer.egg-info/dependency_links.txt

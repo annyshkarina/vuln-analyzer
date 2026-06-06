@@ -14,3 +14,4 @@ from vuln_analyzer import analyze_code
 
 print(analyze_code("char buf[10]; gets(buf);"))
 
+Updated before course project defense.
